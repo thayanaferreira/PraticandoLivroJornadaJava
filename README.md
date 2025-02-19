@@ -6,7 +6,7 @@ Este projeto tem o objetivo de consolidar todas as práticas que estou realizand
 A organização do projeto segue o modelo de **subprojetos**, onde cada pasta representa um conceito específico estudado.  
 Abaixo, um exemplo da estrutura atual do projeto:
 
-![Estrutura do Projeto](docs\imagens\image.png) 
+![Estrutura do Projeto](https://github.com/thayana-ferreira/PraticandoLivroJornadaJava/blob/main/docs/imagens/image.png) 
 
 ## Escolha do material de estudo
 
