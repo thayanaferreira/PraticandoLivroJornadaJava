@@ -1,9 +1,14 @@
-### Este projeto tem o objetivo de consolidar todas as práticas que estou realizando por meio do livro Jornada Java.
-___
+# Projeto Jornada Java
 
-### Este projeto está organizado da seguinte forma: há um subprojeto para cada conceito a ser praticado. Segue abaixo demonstração visual:
-![alt text](image.png)
-___
+Este projeto tem o objetivo de consolidar todas as práticas que estou realizando com base no livro **Jornada Java**.
+
+## Estrutura do Projeto  
+A organização do projeto segue o modelo de **subprojetos**, onde cada pasta representa um conceito específico estudado.  
+Abaixo, um exemplo da estrutura atual do projeto:
+
+![Estrutura do Projeto](docs\imagens\image.png) 
+
+## Escolha do material de estudo
 
 O material que escolhi para iniciar no mundo Java foi o livro Jornada Java, de Antonio Muniz e mais 31 coautores, publicado pela editora Brasport em 2021.
 
