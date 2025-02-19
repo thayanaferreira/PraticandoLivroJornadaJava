@@ -3,7 +3,7 @@
 Este projeto tem o objetivo de consolidar todas as práticas que estou realizando com base no livro **Jornada Java**.
 
 ## Estrutura do Projeto  
-A organização do projeto segue o modelo de **subprojetos**, onde cada pasta representa um conceito específico estudado.  
+A organização do projeto segue o modelo de subprojetos, onde cada pasta representa um conceito específico estudado.  
 Abaixo, um exemplo da estrutura atual do projeto:
 
 ![Estrutura do Projeto](https://github.com/thayana-ferreira/PraticandoLivroJornadaJava/blob/main/docs/imagens/image.png) 
