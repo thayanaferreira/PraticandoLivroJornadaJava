@@ -3,14 +3,14 @@ import java.time.Period;
 
 public class Pessoa {
 
-    // atibutos da minha classe
+    // atributos da minha classe
     LocalDate dataNascimento;
     float altura;
     String estadoCivil;
     String genero;
 
-    // construtor 
-        // quando dou new - para criar um novo objeto - é chamado o construtor da classe
+    /*construtor 
+        quando "dou" new - para criar um novo objeto - é executado o construtor da classe*/
     public Pessoa(LocalDate dataNascimento, float altura, String estadoCivil, String genero){
         this.dataNascimento = dataNascimento;
         this.altura = altura;
