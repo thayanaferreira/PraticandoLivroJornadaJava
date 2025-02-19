@@ -7,7 +7,7 @@ public class Professor extends Pessoa {
     public Professor(String nome, int idade, double salario) {
         super(nome, idade);
         this.salario = salario;
-    }
+    }  
 
     public double getSalario(){
         return salario;
