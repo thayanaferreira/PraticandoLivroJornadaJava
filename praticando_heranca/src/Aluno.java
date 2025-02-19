@@ -1,4 +1,4 @@
-public class Aluno extends Pessoa {
+public class Aluno extends Pessoa3 {
 
     // declarar nome idade salario
     private String serie;

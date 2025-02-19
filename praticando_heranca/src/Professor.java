@@ -1,4 +1,4 @@
-public class Professor extends Pessoa {
+public class Professor extends Pessoa3 {
 
     //declarar nome idade salario
     private double salario;

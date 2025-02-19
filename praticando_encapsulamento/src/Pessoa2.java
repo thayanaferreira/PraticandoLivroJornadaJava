@@ -1,9 +1,9 @@
-public class Pessoa {
+public class Pessoa2 {
     String nome;
     private int idade;
 
     //construtor
-    public Pessoa(String nome){
+    public Pessoa2(String nome){
         idade = 0;
         this.nome = nome;
     }

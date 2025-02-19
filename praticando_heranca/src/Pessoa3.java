@@ -1,9 +1,9 @@
-public class Pessoa {
+public class Pessoa3 {
     protected String nome;
     protected int idade;
 
     //construtor
-    public Pessoa(String nome, int idade){
+    public Pessoa3(String nome, int idade){
         this.nome = nome;
         this.idade = idade;
     }
