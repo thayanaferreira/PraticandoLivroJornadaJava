@@ -1,5 +1,8 @@
 ### Este projeto tem o objetivo de consolidar todas as práticas que estou realizando por meio do livro Jornada Java.
+___
 
+### Este projeto está organizado da seguinte forma: há um subprojeto para cada conceito a ser praticado. Segue abaixo demonstração visual:
+![alt text](image.png)
 ___
 
 O material que escolhi para iniciar no mundo Java foi o livro Jornada Java, de Antonio Muniz e mais 31 coautores, publicado pela editora Brasport em 2021.
