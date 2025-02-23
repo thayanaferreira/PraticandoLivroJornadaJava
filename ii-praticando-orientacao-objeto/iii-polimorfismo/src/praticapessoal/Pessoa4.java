@@ -1,10 +1,10 @@
 package praticapessoal;
 
-public class Pessoa {
+public class Pessoa4 {
     protected String nome;
     protected int idade;
 
-    public Pessoa(String nome, int idade){
+    public Pessoa4(String nome, int idade){
         this.nome = nome;
         this.idade = idade;
     }

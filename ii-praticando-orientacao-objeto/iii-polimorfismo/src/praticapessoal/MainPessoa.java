@@ -6,15 +6,15 @@ public class MainPessoa {
         String quebraDeLinha = "";
         //praticando o polimorfismo: o método fazerAniversario não existe em aluno e provessor, e mesmo assim foi chamado normalmente...
         //pois aluno/professor É-UMA-PESSOA
-        Pessoa professor = new Professor("Thay", 32, 25000);
+        Pessoa4 professor = new Professor2("Thay", 32, 25000);
         professor.fazerAniversario();
         System.out.println("idade professor(a) PÓS niver: " + professor.getIdade());
-        salario = ((Professor) professor).getSalario(); //feito casting aqui, pois o getSalario é um metodo somente de professor.
+        salario = ((Professor2) professor).getSalario(); //feito casting aqui, pois o getSalario é um metodo somente de professor.
         System.out.println("O salário do professor é: " +salario);
         
         System.out.println(quebraDeLinha);
 
-        Pessoa aluno = new Aluno("Clarisse", 12, "6ª");
+        Pessoa4 aluno = new Aluno2("Clarisse", 12, "6ª");
         aluno.fazerAniversario();
         System.out.println("idade aluno PÓS niver: " + aluno.getIdade());
 

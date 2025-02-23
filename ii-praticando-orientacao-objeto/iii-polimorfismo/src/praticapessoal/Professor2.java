@@ -1,10 +1,10 @@
 package praticapessoal;
 
-public class Professor extends Pessoa {
+public class Professor2 extends Pessoa4 {
 
     private double salario;
 
-    public Professor(String nome, int idade, double salario) {
+    public Professor2(String nome, int idade, double salario) {
         super(nome, idade);
         this.salario = salario;
     }  

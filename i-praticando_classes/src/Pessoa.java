@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.Period;
 
-public class Pessoa1 {
+public class Pessoa {
 
     // atributos da minha classe
     LocalDate dataNascimento;
@@ -11,7 +11,7 @@ public class Pessoa1 {
 
     /*construtor 
         quando "dou" new - para criar um novo objeto - é executado o construtor da classe*/
-    public Pessoa1(LocalDate dataNascimento, float altura, String estadoCivil, String genero){
+    public Pessoa(LocalDate dataNascimento, float altura, String estadoCivil, String genero){
         this.dataNascimento = dataNascimento;
         this.altura = altura;
         this.estadoCivil = estadoCivil;

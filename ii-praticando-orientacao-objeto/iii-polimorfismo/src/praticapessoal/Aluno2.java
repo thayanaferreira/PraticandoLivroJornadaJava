@@ -1,10 +1,10 @@
 package praticapessoal;
 
-public class Aluno extends Pessoa {
+public class Aluno2 extends Pessoa4 {
 
     private String serie;
 
-    public Aluno(String nome, int idade, String serie) {
+    public Aluno2(String nome, int idade, String serie) {
         super(nome, idade);
         this.serie = serie;
     }

@@ -6,7 +6,7 @@ public class Escola {
 
     //outros métodos
 
-    public void cadastrarPessoa(Pessoa pessoa) {
+    public void cadastrarPessoa(Pessoa4 pessoa) {
         //faz alguma coisa
     }
 }
