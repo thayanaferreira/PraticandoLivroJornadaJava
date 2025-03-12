@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio4;
 
 public interface IConectavel {
     void conectarWifi();

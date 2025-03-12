@@ -1,12 +1,12 @@
-package exercicio1;
+package exercicio123;
 
 public interface IVeiculo {
-    //métodos abstratos, deve ser implementado na classe.
-    //é ímplicito que é um método abstrato público
+    //métodos abstratos, devem ser obrigatoriamente implementados na classe.
+    //é ímplicito que é um método abstrato é público
     void acelerar();  
     void frear();    
 
-    //método defaut, pode ser sobrescrito.
+    //método defaut, pode ser sobrescrito na classe.
     default void businar(){
         System.out.println("Bii Bii!");
     }

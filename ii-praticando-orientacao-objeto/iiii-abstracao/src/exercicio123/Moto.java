@@ -1,4 +1,4 @@
-package exercicio1;
+package exercicio123;
 
 public class Moto implements IVeiculo{
     public void acelerar(){

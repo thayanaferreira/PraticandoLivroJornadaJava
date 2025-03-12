@@ -1,15 +1,16 @@
-package exercicio1;
+package exercicio123;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("####################################################");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
         Carro carro = new Carro();
         carro.acelerar();
         carro.frear();
         carro.businar();
         System.out.println("O veiculo é motorizado? " + IVeiculo.ehMotorizado());
 
-        System.out.println("####################################################");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
+    
 
         Moto moto = new Moto();
         moto.acelerar();
@@ -17,6 +18,6 @@ public class Main {
         moto.businar();
         System.out.println("O veiculo é motorizado? " + IVeiculo.ehMotorizado());
 
-        System.out.println("####################################################");
+        System.out.println("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
     }
 }

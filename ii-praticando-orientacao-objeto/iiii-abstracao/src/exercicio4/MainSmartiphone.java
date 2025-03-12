@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio4;
 
 public class MainSmartiphone {
     public static void main(String[] args) {

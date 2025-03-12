@@ -1,4 +1,4 @@
-package exercicio2;
+package exercicio4;
 
 public class Smartphone implements IConectavel, IEletronico{
     public void ligar(){
