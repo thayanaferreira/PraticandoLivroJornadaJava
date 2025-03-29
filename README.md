@@ -25,3 +25,4 @@ Abaixo, compartilho alguns trechos da introdução, préfacio e apresentação d
 *"Os royalties dos livros ficam reservados com a editora para ajudar na compra dos exemplares que usamos na Jornada Summit e a receita é doada para instituições carentes (doamos R$ 137 mil para 12 instituições em 2019 e 2020)."*
 
 Comprei aqui: https://www.editorabrasport.com.br/jornada-java
+
